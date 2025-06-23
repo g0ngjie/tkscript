@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name        fnOS rename
+// @name        飞牛浏览器标题修改
+// @version     1.0.2
 // @namespace   https://github.com/g0ngjie/tkscript/fnos/index.js
 // @match       *://*.5ddd.com/*
+// @match       *://*.fnos.net/*
 // @match       *://fn.*.com/*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Gj
+// @license     MIT License
 // @description 2025/6/23 10:46:16
 // ==/UserScript==
 (function () {
