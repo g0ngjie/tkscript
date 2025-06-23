@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        飞牛浏览器标题修改
-// @version     1.0.2
+// @version     1.0.3
 // @namespace   https://github.com/g0ngjie/tkscript/fnos/index.js
 // @match       *://*.5ddd.com/*
 // @match       *://*.fnos.net/*
