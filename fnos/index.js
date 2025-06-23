@@ -36,5 +36,5 @@
         characterData: true,
         childList: true
     };
-    observer.observe(targetNode, config);
+    if (targetNode) observer.observe(targetNode, config);
 }());
