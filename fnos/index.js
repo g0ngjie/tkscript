@@ -28,7 +28,7 @@
     const observer = new MutationObserver(function (mutations) {
         mutations.forEach(function (mutation) {
             console.log('Title changed to:', mutation.target.textContent);
-            if (mutation.target.textContent != rTitle) document.title = '百度一下'
+            if (mutation.target.textContent != rTitle) document.title = rTitle
         });
     });
     const config = {
